@@ -1,0 +1,5 @@
+cl/ucn/disc/hpc/Sudoku/Main.java
+ cl.ucn.disc.hpc.Sudoku.Main
+cl/ucn/disc/hpc/Sudoku/Sudoku.java
+ cl.ucn.disc.hpc.Sudoku.Sudoku
+ cl.ucn.disc.hpc.Sudoku.Sudoku$SudoTask
